@@ -1,0 +1,32 @@
+.jumbotron {
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(246,224,208,1) 100%);
+
+    color:white;
+}
+
+.btn {
+    margin:5px;
+}
+
+input#add-animal{
+    margin: 0;
+}
+
+.card {
+    width: 800px;
+    margin: 0 auto;
+}
+
+#animal-form {
+    width: 800px;
+    margin: 10px auto;
+}
+
+
+h1 {
+    text-align: center;
+    color: #343a40;
+}
+.container {
+    margin-top: 60px;
+}
